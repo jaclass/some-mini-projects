@@ -1,0 +1,15 @@
+[info] Packaging C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\target\scala-2.13\parprog1-kmeans_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	kmeans\KMeansInterface.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\KMeansInterface.scala
+[debug] 	kmeans\KMeans.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\KMeans.scala
+[debug] 	kmeans\fun\ScalaShop.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\fun\ScalaShop.scala
+[debug] 	kmeans\fun\package.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\fun\package.scala
+[debug] 	kmeans\fun\IndexedColors.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\fun\IndexedColors.scala
+[debug] 	kmeans\fun\PhotoCanvas.scala
+[debug] 	  C:\Users\39873\IdeaProjects\cousera-mini-projects\scala-functional-and-parallel-programming\kmeans\src\main\scala\kmeans\fun\PhotoCanvas.scala
+[info] Done packaging.
