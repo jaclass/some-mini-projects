@@ -1,0 +1,13 @@
+[info] Packaging C:\Users\39873\IdeaProjects\reductions\target\scala-2.13\parprog1-reductions_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	reductions\ParallelCountChange.scala
+[debug] 	  C:\Users\39873\IdeaProjects\reductions\src\main\scala\reductions\ParallelCountChange.scala
+[debug] 	reductions\package.scala
+[debug] 	  C:\Users\39873\IdeaProjects\reductions\src\main\scala\reductions\package.scala
+[debug] 	reductions\LineOfSight.scala
+[debug] 	  C:\Users\39873\IdeaProjects\reductions\src\main\scala\reductions\LineOfSight.scala
+[debug] 	reductions\ParallelParenthesesBalancing.scala
+[debug] 	  C:\Users\39873\IdeaProjects\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala
+[debug] 	reductions\Interfaces.scala
+[debug] 	  C:\Users\39873\IdeaProjects\reductions\src\main\scala\reductions\Interfaces.scala
+[info] Done packaging.

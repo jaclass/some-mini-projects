@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9efe7b25-64ad-4b05-9560-c2349aec8eca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xvp0dBRfyVzMAWD49mfq6JvJKR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.ReductionsSuite">
+    <configuration name="LineOfSightRunner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="reductions.LineOfSightRunner" />
+      <module name="parprog1-reductions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelCountChangeRunner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="reductions.ParallelCountChangeRunner" />
+      <module name="parprog1-reductions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelParenthesesBalancingRunner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="reductions.ParallelParenthesesBalancingRunner" />
+      <module name="parprog1-reductions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReductionsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parprog1-reductions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="reductions" />
+      <option name="MAIN_CLASS_NAME" value="reductions.ReductionsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReductionsSuite" />
+        <item itemvalue="Application.LineOfSightRunner" />
+        <item itemvalue="Application.ParallelParenthesesBalancingRunner" />
+        <item itemvalue="Application.ParallelCountChangeRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parprog1-reductions" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="reductions [file:/C:/Users/39873/IdeaProjects/reductions/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="parprog1-reductions-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429354276000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1785830823" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../objsets/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalashop" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9efe7b25-64ad-4b05-9560-c2349aec8eca" name="Default Changelist" comment="" />
+      <created>1581936200859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581936200859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581936552361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581936552361" />
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1581967488593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581967488593" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581939065870">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581939065870" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581987039568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581987039568" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581987039567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581987039567" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581987039567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581987039567" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581987039567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581987039567" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1582031883974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582031883974" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581985756989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581985756989" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+[info] Packaging C:\Users\39873\IdeaProjects\scalashop\target\scala-2.13\parprog1-scalashop_2.13-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	scalashop\ScalaShop.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\ScalaShop.scala
+[debug] 	scalashop\package.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\package.scala
+[debug] 	scalashop\PhotoCanvas.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\PhotoCanvas.scala
+[debug] 	scalashop\Interfaces.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\Interfaces.scala
+[debug] 	scalashop\HorizontalBoxBlur.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\HorizontalBoxBlur.scala
+[debug] 	scalashop\VerticalBoxBlur.scala
+[debug] 	  C:\Users\39873\IdeaProjects\scalashop\src\main\scala\scalashop\VerticalBoxBlur.scala
+[info] Done packaging.
